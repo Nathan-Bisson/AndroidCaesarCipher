@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Caesar Cipher</string>
+    <string name="action_author">Nathan Bisson (biss0180)</string>
+    <string name="action_settings">Rotation</string>
+    <string name="clear">Clear</string>
+    <string name="capitalized_text_hint">Type your message to un-unencrypt here&#8230;</string>
+    <string name="capitalized_text_label">Encrypted Message:</string>
+    <string name="plain_text_hint">Type your message to encrypt here&#8230;</string>
+    <string name="plain_text_label">Plain Message:</string>
+
+</resources>
